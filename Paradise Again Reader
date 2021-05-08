@@ -1,0 +1,57 @@
+{
+  "title": "Paradise Again",
+  "description": "Yoonwoo, an actor who only does minor roles, is casted in a famous director's queer movie in a leading role and is paired with Jihyuk, a famous celebrity. Unbeknownst to the public, Yoonwoo and Jihyuk know each other from 3 years ago as they were in a physical relationship. Reuniting after such a long period of time, their feelings are rekindled as they become immersed in their roles but...",
+  "artist": "Babeol (바벌)",
+  "author": "Rexin (렉신)",
+  "cover": "https://imgur.com/a/RTx8Gb2",
+  "chapters": {
+    "6": {
+      "title": "Chapter 6",
+      "volume": "",
+      "groups": {
+        "HCS, FBS, NMS": "/proxy/api/imgur/chapter/QujYW3P/"
+      },
+      "last_updated": "1620431520"  
+    },     
+    "5": {
+      "title": "Chapter 5",
+      "volume": "",
+      "groups": {
+        "HCS, FBS, NMS": "/proxy/api/imgur/chapter/9ncDl2o/"
+      },
+      "last_updated": "1620431520"  
+    },     
+    "4": {
+      "title": "Chapter 4",
+      "volume": "",
+      "groups": {
+        "HCS, FBS, NMS": "/proxy/api/imgur/chapter/x18QvHw/"
+      },
+      "last_updated": "1620431520"  
+    },   
+    "3": {
+      "title": "Chapter 3",
+      "volume": "",
+      "groups": {
+        "HCS, FBS, NMS": "/proxy/api/imgur/chapter/2j4Fkc1/"
+      },
+      "last_updated": "1620431520"  
+    },      
+    "2": {
+      "title": "Chapter 2",
+      "volume": "",
+      "groups": {
+        "HCS, FBS, NMS": "/proxy/api/imgur/chapter/XNuvfKP/"
+      },
+      "last_updated": "1620431520"
+    },
+    "1": {
+      "title": "Chapter 1",
+      "volume": "",
+      "groups": {
+        "HCS, FBS, NMS": "/proxy/api/imgur/chapter/L4vXN25/"
+      },
+      "last_updated": "1620431520"
+    }      
+  }
+}
